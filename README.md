@@ -27,7 +27,7 @@ pip install -r requirements.txt'''
 
 ''' bash
 Copy code
-git clone https://github.com/vida-lashani/CNN-Transformer-Flame-Response.git'''
+git clone https://github.com/vida-lashani/CNN-Transformer.git'''
 2- Prepare the data: Place your input data of velocity disturbances in the /data/ directory. Make sure the data format follows the structure defined in the notebooks.
 
 3- Train the model: Run the Jupyter notebook to train the CNN-Transformer model on the provided dataset.
